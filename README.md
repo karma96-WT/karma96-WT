@@ -125,41 +125,6 @@ Passionate about solving real-world problems through software development, clean
 
 ---
 
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karma96-wt&theme=tokyo-night"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-* 🌟 **Project Name 1** — Short description.
-* 🌟 **Project Name 2** — Short description.
-* 🌟 **Project Name 3** — Short description.
-
----
-
-## 📚 Currently Learning
-
-* ☁️ Cloud Computing
-* 🏗️ System Design
-* ⚡ Advanced Data Structures & Algorithms
-* 🔐 Cybersecurity Fundamentals
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/karma96-wt/karma96-wt/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-<div align="center">
-
 ### 💭 Favorite Quote
 
 *"First, solve the problem. Then, write the code."*
