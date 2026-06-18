@@ -122,6 +122,11 @@ Passionate about solving real-world problems through software development, clean
 <img src="https://streak-stats.demolab.com?user=karma96-wt&theme=tokyonight"/>
 
 </div>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karma96-wt/karma96-wt/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
