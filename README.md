@@ -42,9 +42,8 @@ Passionate about solving real-world problems through software development, clean
 
 ---
 
-<div align="center">
-  ## About Me
-<div>
+
+## About Me
 
 * 🎓 BE in Information Technology Student
 * 💻 Passionate about Software Development
@@ -55,9 +54,7 @@ Passionate about solving real-world problems through software development, clean
 
 ---
 
-<div align="center">
-  ## 🛠 Tech Stack
-<div>
+### 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
@@ -133,18 +130,19 @@ Passionate about solving real-world problems through software development, clean
 </p>
 
 ---
-<div align="center">
-  ### Favorite Quote
+<div align = "center">
+  
+# Favorite Quote
 
-*"First, solve the problem. Then, write the code."*
+### *"First, solve the problem. Then, write the code."*
 
-# Thanks for visiting my profile!
+### Thanks for visiting my profile!
+
 </div>
 
 ## Projects Link
-# https://react-todo-7s18.vercel.app/
-# https://speedrunethereumchallenge.vercel.app/
-# https://travel-agent-website-brown.vercel.app/
-# https://multisig-project.vercel.app/
+### https://react-todo-7s18.vercel.app/
+### https://speedrunethereumchallenge.vercel.app/
+### https://travel-agent-website-brown.vercel.app/
+### https://multisig-project.vercel.app/
 
-</div>
