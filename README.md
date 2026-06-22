@@ -134,12 +134,14 @@ Passionate about solving real-world problems through software development, clean
 
 ---
 <div align="center">
-  ### 💭 Favorite Quote
+  ### Favorite Quote
 
 *"First, solve the problem. Then, write the code."*
 
-⭐ Thanks for visiting my profile!
+# Thanks for visiting my profile!
 </div>
 
+## Projects Link
+# https://react-todo-7s18.vercel.app/
 
 </div>
